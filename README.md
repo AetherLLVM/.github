@@ -1,2 +1,2 @@
 # .github
-AetherLLVM - Lift. Instrument. Emulate. Recover.
+AetherVM - Lift. Instrument. Emulate. Recover.
