@@ -3,4 +3,4 @@
 
 It unifies static, dynamic, and symbolic analysis through a common intermediate representation, enabling advanced instrumentation, runtime recovery, deobfuscation, and program understanding.
 
-<p align="center"><img src="https://raw.githubusercontent.com/AetherVM/.github/main/profile/architecture.svg" alt="Architecture" width="800" height="450" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/AetherVM/.github/main/profile/architecture.svg" alt="Architecture" width="800" height="490" /></p>
